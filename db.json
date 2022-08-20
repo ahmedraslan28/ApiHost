@@ -1,5 +1,4 @@
-{
-  "courser-list" : [
+ [
     {
       "id" : 0 , 
       "img" : "courses/python-course1.png" , 
@@ -60,6 +59,4 @@
       "students" : "(2,929)",
       "price" : "E£229.99"
     }
-  ]
-
-}
+ ]
