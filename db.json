@@ -264,7 +264,7 @@
     ]
   },
   {
-    "Web Dev": [
+    "Web_Dev": [
       {
         "id": 0,
         "img": "courses/WebDev/1.png",
@@ -527,8 +527,8 @@
       }
     ]
   },
-  {
-    "Data Science": [
+  { 
+    "Data_Science": [
       {
         "id": 0,
         "img": "courses/Data Science/1.png",
@@ -923,4 +923,6 @@
       }
     ]
   }
+  
 ]
+
