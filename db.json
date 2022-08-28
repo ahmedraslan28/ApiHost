@@ -531,7 +531,7 @@
     "Data_Science": [
       {
         "id": 0,
-        "img": "courses/Data Science/1.png",
+        "img": "courses/Data_Science/1.png",
         "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
         "author": "Avinash Jain, The Codex",
         "rate": 4.4,
@@ -547,7 +547,7 @@
       },
       {
         "id": 1,
-        "img": "courses/Data Science/2.png",
+        "img": "courses/Data_Science/2.png",
         "title": "Machine Learning, Data Science and Deep Learning",
         "author": "Jose Portilla",
         "rate": 4.4,
@@ -563,7 +563,7 @@
       },
       {
         "id": 2,
-        "img": "courses/Data Science/3.png",
+        "img": "courses/Data_Science/3.png",
         "title": "Data Science: Deep Learning and Neural Networks",
         "author": "Edwin Diaz, Coding Faculty Solutions",
         "rate": 4.4,
@@ -579,7 +579,7 @@
       },
       {
         "id": 3,
-        "img": "courses/Data Science/4.png",
+        "img": "courses/Data_Science/4.png",
         "title": "R Programming A-Z™: R For Data Science",
         "author": "Abrar Hussain",
         "rate": 4.3,
@@ -595,7 +595,7 @@
       },
       {
         "id": 4,
-        "img": "courses/Data Science/5.png",
+        "img": "courses/Data_Science/5.png",
         "title": "Data Science and Machine Learning Bootcamp",
         "author": "Infinite Skills",
         "rate": 4.4,
@@ -611,7 +611,7 @@
       },
       {
         "id": 5,
-        "img": "courses/Data Science/6.png",
+        "img": "courses/Data_Science/6.png",
         "title": "R Programming: Advanced Analytics In R For Data Science",
         "author": "Al Sweigart",
         "rate": 4.7,
@@ -627,7 +627,7 @@
       },
       {
         "id": 6,
-        "img": "courses/Data Science/7.png",
+        "img": "courses/Data_Science/7.png",
         "title": "Python for Data Science and Machine Learning Bootcamp",
         "author": "Jose Portilla",
         "rate": 4.6,
